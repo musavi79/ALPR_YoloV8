@@ -6,5 +6,8 @@ When combining ALPR with YOLO, the YOLO algorithm is trained to recognize and lo
 
 
 
-https://github.com/musavi79/ALPR_YoloV8_easyocr/assets/104809077/8854ed14-80ea-45e0-b2b1-94e82e91cc72
+
+https://github.com/musavi79/ALPR_YoloV8_easyocr/assets/104809077/a3601b95-642e-47f6-86c1-06d1ffe97636
+
+
 
