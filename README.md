@@ -4,3 +4,7 @@ YOLO (You Only Look Once) is a popular object detection algorithm that can be ap
 
 When combining ALPR with YOLO, the YOLO algorithm is trained to recognize and locate license plates within an image or video frame. By using YOLO, the ALPR system can achieve real-time performance, making it suitable for applications where immediate license plate recognition is required.
 
+
+
+https://github.com/musavi79/ALPR_YoloV8_easyocr/assets/104809077/8854ed14-80ea-45e0-b2b1-94e82e91cc72
+
